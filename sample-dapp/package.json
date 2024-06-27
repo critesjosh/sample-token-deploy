@@ -1,0 +1,12 @@
+{
+  "name": "sample-dapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@aztec/accounts": "^0.44.0",
+    "@aztec/aztec.js": "^0.44.0"
+  },
+  "packageManager": "yarn@1.22.21+sha1.1959a18351b811cdeedbd484a8f86c3cc3bbaf72"
+}
